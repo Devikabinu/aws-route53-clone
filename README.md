@@ -169,7 +169,7 @@ The backend provides the following REST API endpoints under `/api`:
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login-page.png)
 
 ### Hosted Zones
 ![Hosted Zones](screenshots/hosted-zones.png)
